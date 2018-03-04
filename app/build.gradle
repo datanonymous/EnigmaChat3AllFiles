@@ -6,8 +6,8 @@ android {
         applicationId "ko.alex.enigmachat3"
         minSdkVersion 23
         targetSdkVersion 26
-        versionCode 3
-        versionName 'fixing encrypt'
+        versionCode 4
+        versionName 'adding seed number'
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
         // Enabling multidex support.
