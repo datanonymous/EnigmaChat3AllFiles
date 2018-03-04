@@ -36,7 +36,7 @@
         android:layout_alignParentBottom="true"
         android:layout_toStartOf="@+id/input"
         android:ems="10"
-        android:hint="Seed #:"
+        android:hint="@string/seed"
         android:inputType="number" />
 
     <ListView
