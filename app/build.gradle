@@ -6,7 +6,7 @@ android {
         applicationId "ko.alex.enigmachat3"
         minSdkVersion 23
         targetSdkVersion 26
-        versionCode 4
+        versionCode 5
         versionName 'adding seed number'
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
